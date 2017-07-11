@@ -3,7 +3,8 @@ Copyright (c) 2017 Mikhail Goykhman
 This code is Mikhail Goykhman's Python rendition of a well-known
 techniques of the forward/backward, Baum-Welch, and Viterbi
 algorithms. Mikhail Goykhman does not claim an authorship
-of the algorithms in the HMM.py file.
+of the algorithms in the HMM.py file, but only the particular
+implementation of those algorithms provided there. 
 
 This code can be used, free of charge, without explicit requests
 for permission, provided the following conditions are met:
